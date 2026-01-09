@@ -112,7 +112,7 @@ In this project, Microsoft Azure Management Groups and role-based access control
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/4M9oLC7.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/4M9oLC7.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -226,7 +226,7 @@ In this project, Microsoft Azure Management Groups and role-based access control
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/FUEf3wF.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/FUEf3wF.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -283,7 +283,7 @@ In this project, Microsoft Azure Management Groups and role-based access control
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/xU85ieK.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/xU85ieK.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -326,4 +326,118 @@ In this project, Microsoft Azure Management Groups and role-based access control
 </table>
 
 <br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Select (bottom-left of Select members box, to the left of Close). You will now see the group(s) and/or user(s) added to the Members section of the Add role assignments webpage.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UHWGOxv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aGHpd6R.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ehjESQm.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next (bottom-left, next to Previous).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/yi1VgW3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/osAHdQq.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>On the Conditions tab, Click: Next (bottom-left, next to Previous).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/EOkAqhf.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/oJJA701.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/9nDuc33.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>On the Review + assign tab, review the information.  Click: Review + assign (bottom-left, next to Previous).</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6QWTxzs.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/A1St7HB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: You may be redirected back to the Microsoft Azure homepage. If so, you can go back to: Management groups, the group you just edited, Access control (IAM) blade, Role assignments tab.</b></span>  
+<br/><br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SQThWnJ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TkRQprD.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RFsKh50.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
 
