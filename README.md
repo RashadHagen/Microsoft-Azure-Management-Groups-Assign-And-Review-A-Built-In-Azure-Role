@@ -428,7 +428,7 @@ In this project, Microsoft Azure Management Groups and role-based access control
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/TkRQprD.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/TkRQprD.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
